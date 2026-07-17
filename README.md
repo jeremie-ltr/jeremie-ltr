@@ -1,16 +1,106 @@
-## Hi there 👋
+# Hi, I'm Jérémie 👋
 
+### Lead Product Designer Senior
+
+I design complex B2B SaaS products that help businesses work more efficiently.
+
+Over the past few years, I've been leading product design across multiple products while growing design teams, improving design maturity, and partnering closely with Product Managers and Engineers to build customer-centric experiences.
+
+📍 Paris, France
+
+---
+
+## 🚀 What I do
+
+- Lead end-to-end product design from discovery to delivery
+- Design complex workflows and enterprise experiences
+- Facilitate product discovery with customers
+- Turn user insights into product opportunities
+- Validate ideas through research and prototyping
+
+---
+
+## 🛠 Expertise
+
+### Product
+
+- Product Discovery
+- Product Strategy
+- User Research
+- Product Analytics
+- Opportunity Assessment
+- Roadmapping
+
+### Design
+
+- UX Design
+- UI Design
+- Interaction Design
+- Information Architecture
+- Design Systems
+- Accessibility
+- Prototyping
+
+### Leadership
+
+- Design Management
+- Mentoring
+- Hiring
+- Design Reviews
+- Design Operations
+- Stakeholder Management
+
+### Tools
+
+- Figma
+- LLM (Claude & ChatGPT) 
+- Jira
+- Confluence
+- Amplitude
+- GitHub
+
+---
+
+## 🌱 Currently Exploring
+
+- AI-assisted Product Design
+- Design Engineering
+- Agentic UX
+- Design Systems at Scale
+- Design Tokens
+
+---
+
+## 💭 Design Principles
+
+> Design is not about making interfaces.
+> It's about solving customer problems.
+
+- Discovery before Delivery
+- Simplicity scales
+- Validate early, iterate often
+- Data informs decisions, users inspire them
+- Great products emerge from strong collaboration
+- Design is a business capability, not just a deliverable
+
+---
 <!--
-**jeremie-ltr/jeremie-ltr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🏢 Industries
 
-Here are some ideas to get you started:
+- B2B SaaS
+- Enterprise Software
+- Electronic Signature
+- Digital Identity
+- Workflow Automation
+- Productivity Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+## 🤝 Let's Connect
+
+If you're building ambitious B2B products, improving Product Discovery, or scaling Design teams, I'd love to connect.
+
+- 💼 LinkedIn → https://linkedin.com/in/YOUR_LINKEDIN
+- 🌐 Portfolio → https://YOUR_PORTFOLIO
+- ✉️ Email → YOUR_EMAIL
 -->
