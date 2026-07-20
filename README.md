@@ -22,7 +22,11 @@ Over the past few years, I've been leading product design across multiple produc
 
 ## 🛠 Expertise
 
-### Product
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 Product
 
 - Product Discovery
 - Product Strategy
@@ -31,7 +35,11 @@ Over the past few years, I've been leading product design across multiple produc
 - Opportunity Assessment
 - Roadmapping
 
-### Design
+</td>
+
+<td width="50%" valign="top">
+
+### 🎨 Design
 
 - UX Design
 - UI Design
@@ -41,7 +49,13 @@ Over the past few years, I've been leading product design across multiple produc
 - Accessibility
 - Prototyping
 
-### Leadership
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 👥 Leadership
 
 - Design Management
 - Mentoring
@@ -49,8 +63,11 @@ Over the past few years, I've been leading product design across multiple produc
 - Design Reviews
 - Design Operations
 - Stakeholder Management
+</td>
 
-### Tools
+<td width="50%" valign="top">
+
+### ⚙️ Tooling
 
 - Figma
 - LLM (Claude & ChatGPT) 
@@ -58,6 +75,10 @@ Over the past few years, I've been leading product design across multiple produc
 - Confluence
 - Amplitude
 - GitHub
+
+</td>
+</tr>
+</table>
 
 ---
 
